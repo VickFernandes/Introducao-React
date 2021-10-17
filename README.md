@@ -1,2 +1,2 @@
 # Introducao-React
-Introduzindo React com o Node.JS
+Introduzindo React com o Node.JS com exemplos em exercícios
